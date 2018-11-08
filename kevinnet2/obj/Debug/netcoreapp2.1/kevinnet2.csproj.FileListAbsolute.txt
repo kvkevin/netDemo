@@ -1,0 +1,11 @@
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/bin/Debug/netcoreapp2.1/kevinnet2.deps.json
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/bin/Debug/netcoreapp2.1/kevinnet2.runtimeconfig.json
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/bin/Debug/netcoreapp2.1/kevinnet2.runtimeconfig.dev.json
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/bin/Debug/netcoreapp2.1/kevinnet2.dll
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/bin/Debug/netcoreapp2.1/kevinnet2.pdb
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/obj/Debug/netcoreapp2.1/kevinnet2.csprojResolveAssemblyReference.cache
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/obj/Debug/netcoreapp2.1/kevinnet2.csproj.CoreCompileInputs.cache
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/obj/Debug/netcoreapp2.1/kevinnet2.AssemblyInfoInputs.cache
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/obj/Debug/netcoreapp2.1/kevinnet2.AssemblyInfo.cs
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/obj/Debug/netcoreapp2.1/kevinnet2.dll
+/Users/zm/Desktop/Kevin/kevinnet2/kevinnet2/obj/Debug/netcoreapp2.1/kevinnet2.pdb
