@@ -12,7 +12,8 @@ namespace kevinnet2
             kevinprint();
             int[] arr = {1, 2, 5, 6, 8, 5, 4, 3,94,99,33,45,12,34};
             //PopSort(arr);
-            kevinkevin(arr);
+            //kevinkevin(arr);
+            kevinweek(4);
         }
 
         static void kevinprint()
@@ -69,6 +70,16 @@ namespace kevinnet2
             }
             
         }
+
+        static void kevinweek(int day)
+        {
+            string[] weekArr = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
+            Console.WriteLine(weekArr[day]);
+
+        }
+
+
+
         static void kevinkevin(int[] list){
 
             foreach (var m in list)
