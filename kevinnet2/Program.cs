@@ -13,7 +13,13 @@ namespace kevinnet2
             int[] arr = {1, 2, 5, 6, 8, 5, 4, 3,94,99,33,45,12,34};
             //PopSort(arr);
             //kevinkevin(arr);
-            kevinweek(4);
+            //kevinweek(4);
+            Console.WriteLine("是否继续输入:请输入1到7");
+            Console.ReadKey();
+            var yesORno = Console.ReadKey().Key.ToString();
+            Console.WriteLine((bool)kevinweek(int.Parse(yesORno)));
+            Console.ReadKey();
+
         }
 
         static void kevinprint()
@@ -71,10 +77,26 @@ namespace kevinnet2
             
         }
 
-        static void kevinweek(int day)
+        static bool kevinweek(int day)
         {
-            string[] weekArr = {"Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"};
-            Console.WriteLine(weekArr[day]);
+            int inta = 1;
+      
+
+
+               
+            if (inta>0&&inta<8)
+            {
+                string[] weekArr = { "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+                Console.WriteLine(weekArr[day - 1]);
+            }
+            else{
+                Console.WriteLine("输入错误");
+            }
+
+
+
+            return true;
+     
 
         }
 
