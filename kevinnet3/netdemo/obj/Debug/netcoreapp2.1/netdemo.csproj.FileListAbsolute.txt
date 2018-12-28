@@ -1,0 +1,11 @@
+/Users/zm/Desktop/netdemo/netdemo/bin/Debug/netcoreapp2.1/netdemo.deps.json
+/Users/zm/Desktop/netdemo/netdemo/bin/Debug/netcoreapp2.1/netdemo.runtimeconfig.json
+/Users/zm/Desktop/netdemo/netdemo/bin/Debug/netcoreapp2.1/netdemo.runtimeconfig.dev.json
+/Users/zm/Desktop/netdemo/netdemo/bin/Debug/netcoreapp2.1/netdemo.dll
+/Users/zm/Desktop/netdemo/netdemo/bin/Debug/netcoreapp2.1/netdemo.pdb
+/Users/zm/Desktop/netdemo/netdemo/obj/Debug/netcoreapp2.1/netdemo.csprojAssemblyReference.cache
+/Users/zm/Desktop/netdemo/netdemo/obj/Debug/netcoreapp2.1/netdemo.csproj.CoreCompileInputs.cache
+/Users/zm/Desktop/netdemo/netdemo/obj/Debug/netcoreapp2.1/netdemo.AssemblyInfoInputs.cache
+/Users/zm/Desktop/netdemo/netdemo/obj/Debug/netcoreapp2.1/netdemo.AssemblyInfo.cs
+/Users/zm/Desktop/netdemo/netdemo/obj/Debug/netcoreapp2.1/netdemo.dll
+/Users/zm/Desktop/netdemo/netdemo/obj/Debug/netcoreapp2.1/netdemo.pdb

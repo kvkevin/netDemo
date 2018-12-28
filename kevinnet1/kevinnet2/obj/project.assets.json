@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zm/Desktop/Kevin/kevinnet2/demo/kevinnet2/kevinnet2.csproj",
+      "projectUniqueName": "/Users/zm/Desktop/n/netDemo/kevinnet2/kevinnet2.csproj",
       "projectName": "kevinnet2",
-      "projectPath": "/Users/zm/Desktop/Kevin/kevinnet2/demo/kevinnet2/kevinnet2.csproj",
+      "projectPath": "/Users/zm/Desktop/n/netDemo/kevinnet2/kevinnet2.csproj",
       "packagesPath": "/Users/zm/.nuget/packages/",
-      "outputPath": "/Users/zm/Desktop/Kevin/kevinnet2/demo/kevinnet2/obj",
+      "outputPath": "/Users/zm/Desktop/n/netDemo/kevinnet2/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
